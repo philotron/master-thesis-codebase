@@ -5,7 +5,9 @@ App Store Data Mining and Analysis Project
 This project archive contains the source code and data files of the thesis:
 "App ecosystem out of balance: 
  An empirical analysis of update interdependence between operating system and application software".
-URL: https://1drv.ms/u/s!AgfeJSK0hU3VhWwCBu2_aZU0QQP6?e=eZ6Gfp
+
+Since the data files are too large for a Github upload, they are separately provided through OneDrive:
+https://1drv.ms/u/s!AgfeJSK0hU3Vhm3bcA_4mJ3l5Xni?e=0qJCMj
 
 -------------------------------------------
 1) General Information
