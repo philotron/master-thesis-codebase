@@ -6,8 +6,7 @@ This project archive contains the source code and data files of the thesis:
 "App ecosystem out of balance: 
  An empirical analysis of update interdependence between operating system and application software".
 
-Since the data files are too large for a Github upload, they are separately provided through OneDrive:
-https://1drv.ms/u/s!AgfeJSK0hU3Vhm3bcA_4mJ3l5Xni?e=0qJCMj
+Since the data files are too large for a Github upload, they are provided locally.
 
 -------------------------------------------
 1) General Information
